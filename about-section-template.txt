@@ -1,0 +1,101 @@
+===========================================
+Aboutセクション 書き換えテンプレート
+===========================================
+
+-----------------------------------------------------------
+【セクション全体のタイトル・サブタイトル】
+-----------------------------------------------------------
+
+セクションタイトル（現在: "About"）:
+About Me
+
+サブタイトル（現在: "Lorem ipsum dolor sit amet consectetur."）:
+My academic journey and development as a software engineer
+
+
+-----------------------------------------------------------
+【タイムライン イベント1】
+-----------------------------------------------------------
+
+期間（日付）:
+2022
+
+イベントタイトル:
+University Enrollment
+
+説明文（2-3文程度）:
+I enrolled in Eötvös Loránd University (ELTE) to study Computer Science.
+Through my studies, I built a strong foundation in programming,
+algorithms, and system design.
+
+画像パス:
+assets/img/about/1.jpg
+
+
+-----------------------------------------------------------
+【タイムライン イベント2】
+-----------------------------------------------------------
+
+期間（日付）:
+2023 -
+
+イベントタイトル:
+Software Development & Engineering Studies
+
+説明文（2-3文程度）:
+While studying at ELTE, I worked on various programming projects,
+including object-oriented design, data structures,
+and application development using Java and Python.
+
+画像パス:
+assets/img/about/2.jpg
+
+
+-----------------------------------------------------------
+【タイムライン イベント3】
+-----------------------------------------------------------
+
+期間（日付）:
+2024 -
+
+イベントタイトル:
+Add-in Development for Architectural Software
+
+説明文（2-3文程度）:
+I started working on the development of software extensions
+for architectural design tools.
+Through this work, I gained hands-on experience in designing,
+implementing, and maintaining practical engineering solutions.
+
+画像パス:
+assets/img/about/3.jpg
+
+
+-----------------------------------------------------------
+【タイムライン イベント4】
+-----------------------------------------------------------
+
+期間（日付）:
+Present
+
+イベントタイトル:
+Ongoing Growth as an Engineer
+
+説明文（2-3文程度）:
+Currently, I continue my studies at ELTE while improving my skills
+as a software engineer.
+I am especially interested in building tools that support
+real-world workflows and users.
+
+画像パス:
+assets/img/about/4.jpg
+
+
+-----------------------------------------------------------
+【最後のメッセージ】
+-----------------------------------------------------------
+
+メッセージ（3行で表示されます）:
+1行目: Continue
+2行目: My
+3行目: Journey
